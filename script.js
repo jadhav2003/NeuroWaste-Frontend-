@@ -1,4 +1,5 @@
-const API_URL = "https://your-backend.onrender.com"; // replace after Render deploy
+const API_URL = "https://neuro-backend.onrender.com"; // your Render URL
+ // replace after Render deploy
 
 async function loadBins() {
   try {
